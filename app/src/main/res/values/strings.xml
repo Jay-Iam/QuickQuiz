@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Quick Quiz</string>
+    <string name="question1">What is the capital of India?</string>
+    <string name="mumbai">Mumbai</string>
+    <string name="newDelhi">New Delhi</string>
+    <string name="kolkata">Kolkata</string>
+    <string name="chennai">Chennai</string>
+    <string name="question2">Authors of the book \'The Grand Design\'?</string>
+    <string name="stephenKing">Stephen King</string>
+    <string name="leonardMlodinow">Leonard Mlodinow</string>
+    <string name="leonardoDaVinci">Leonardo Da Vinci</string>
+    <string name="stephenHawking">Stephen Hawking</string>
+    <string name="question3">Mention the reasons for Acid Rain.</string>
+    <string name="question4">In which computer language are operating systems are written?</string>
+    <string name="language_C">C/C++</string>
+    <string name="language_python">Python</string>
+    <string name="language_java">Java</string>
+    <string name="language_php">PHP</string>
+    <string name="language_html">HTML</string>
+    <string name="answer">Answer</string>
+    <string name="Submit">Submit</string>
 </resources>
